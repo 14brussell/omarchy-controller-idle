@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "14brussell",
   "license": "MIT",
-  "description": "Count real controller activity toward Omarchy's screensaver and lock timers, while preserving normal idle behavior when you stop playing.",
+  "description": "Keep playing with a controller without the screensaver interrupting you.",
   "kinds": ["service"],
   "keepLoaded": true,
   "entryPoints": {"service": "Service.qml"},
